@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep  3 12:10:29 2020
+Created on November 24th, 2021
 
 CVXPY code for Optimization of Daily Fantasy Football Project
 
