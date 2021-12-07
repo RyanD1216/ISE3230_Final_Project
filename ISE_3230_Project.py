@@ -3,9 +3,9 @@
 """
 Created on Thu Sep  3 12:10:29 2020
 
-CVXPY code for the LP production schedule example.
+CVXPY code for Optimization of Daily Fantasy Football Project
 
-@author: Sam
+@authors: Ryan Davis, Maddie Bailey, & Blaine Borhart
 """
 
 import pandas as pan
